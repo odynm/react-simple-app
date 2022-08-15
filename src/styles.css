@@ -1,0 +1,19 @@
+@import url("https://maxcdn.bootstrapcdn.com/bootstrap/latest/css/bootstrap.min.css");
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.slider-container{
+  height: 200px;
+}
+.carousel-initialized {
+  height: 200px;
+}
+.slider-content{
+  padding: 50px;
+  min-height: 200px;
+}
+.bold {
+  font-weight: 'bold';
+}
